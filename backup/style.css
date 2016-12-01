@@ -1,0 +1,35 @@
+#all
+{
+	background-image:url(qw.jpg);
+	background-size: 100% 150%;
+	background-repeat: no-repeat;
+	border:1px solid black;
+	height:210px;
+	width:240px;
+	margin:150px auto;
+	
+}
+#disp
+{
+	margin-top:10px;
+	margin-bottom:10px;
+	height:20px;
+	width:184px;
+	border:2px solid red;
+	text-align:right;
+}
+#rest
+{
+	margin-left:26px;
+	margin-top:4px;
+}
+#powbox
+{
+	margin-left:5px;
+	width:40px;
+	height:14px;
+}
+.a
+{
+	margin-top:6px;
+}
